@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=height
+comment0.target=ExpressionTree(int)
+comment0.text=\n\ This\ method\ will\ initial\ the\ height\ of\ tree\n
+comment1.params=
+comment1.target=ExpressionNode\ createExpressionTree()
+comment1.text=\n\ The\ createExpression\ method\ will\ create\ one\ kind\ of\ poosible\ node\ (average,\ multiply,\ sine,\ and\ cosine)\ to\ be\ the\ root\n\ then\ the\ root\ will\ create\ its\ subtree\ autometically\n
+comment2.params=height
+comment2.target=void\ setHeight(int)
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=x\ y
+comment5.target=double\ getResult(double,\ double)
+numComments=6

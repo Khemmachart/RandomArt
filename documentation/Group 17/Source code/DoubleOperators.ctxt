@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=height
+comment0.target=DoubleOperators(int)
+comment0.text=\n\ First\ of\ all,\ when\ the\ node\ is\ created,\ its\ will\ assing\ values\ to\ super\ class\ (for\ initial\ the\ variable\ that\ required)\n\ then\ will\ create\ an\ sub\ tree\ for\ expresstion\ tree\ by\ generateExpression\ method.\n
+comment1.params=
+comment1.target=void\ generateExpression()
+comment1.text=\n\ If\ node\ is\ leaf\ node\ (height\ is\ equal\ one)\ its\ will\ return\ one\ of\ x\ and\ y\n\ otherwise,\ if\ it's\ not\ a\ leaf\ node,\ its\ will\ create\ another\ subtree\ in\ it\ children\n
+comment2.params=
+comment2.target=ExpressionNode\ randExpression()
+comment2.text=\n\ Random\ one\ of\ poosible\ expression\ node\ to\ be\ child\n
+comment3.params=x\ y
+comment3.target=double\ getResult(double,\ double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

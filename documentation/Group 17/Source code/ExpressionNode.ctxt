@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=height
+comment0.target=ExpressionNode(int)
+comment0.text=\n\ When\ node\ is\ created,\ its\ will\ initial\ the\ height,\ and\ values\ of\ x\ and\ y\ into\ attribute\ (instance\ variable)\n
+comment1.params=x\ y
+comment1.target=void\ generateOperand(double,\ double)
+comment1.text=\n\ When\ the\ node\ deep\ into\ the\ leaf\ node,\ its\ will\ select\ one\ value\ of\ x\ and\ y\ for\ create\ an\ expression,\ select\ by\ random\ value\ between\ 0\ and\ 1,\ inclusive\n\ then\ keep\ that\ value\ (x\ or\ y)\ to\ operand\ (use\ when\ user\ aks\ for)\n\ and\ assign\ to\ the\ variable\ name\ 'value'\ for\ use\ to\ generate\ expression\n
+comment2.params=x\ y
+comment2.target=double\ getOperand(double,\ double)
+comment2.text=\n\ get\ the\ current\ value\ of\ operand\n
+comment3.params=x\ y
+comment3.target=double\ getResult(double,\ double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,17 @@
+public class ExpressionControler {
+      public static final int DRFAULT_MIMINUM_HEIGHT = 4;
+      private ExpressionTree exprRed;
+      private ExpressionTree exprGreen;
+      private ExpressionTree exprBlue;
+      
+      public ExpressionControler () {
+          ExpressionControler(DRFAULT_MIMINUM_HEIGHT);
+      }
+      
+      public ExpressionControler (int height) {
+          exprRed = new ExpressionTree(12);
+          exprGreen = new ExpressionTree(12);
+          exprBlue = new ExpressionTree(12);  
+      }
+        
+}

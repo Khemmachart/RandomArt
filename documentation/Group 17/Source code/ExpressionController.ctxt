@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ExpressionController()
+comment0.text=\n\ Default\ constructure\ will\ call\ another\ constructure\ by\ using\ default\ input\ value\n
+comment1.params=height\ grayscale
+comment1.target=ExpressionController(int,\ boolean)
+comment1.text=\n\ Main\ constructure\n
+comment2.params=name
+comment2.target=ExpressionTree\ getExpr(java.lang.String)
+comment2.text=\n\ Get\ each\ expression\ by\ verify\ that\ name\ of\ expression\ that\ pass\ by\ parameter\n
+comment3.params=name
+comment3.target=java.lang.String\ getExpressionAsString(java.lang.String)
+comment3.text=\n\ Get\ string\ of\ each\ expression\ by\ verify\ that\ name\ of\ expression\ that\ pass\ by\ parameter\n
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=height
+comment0.target=Average(int)
+comment1.params=x\ y
+comment1.target=double\ getResult(double,\ double)
+comment1.text=\n\ If\ it's\ leaf\ node,\ it\ will\ return\ one\ of\ x\ and\ y\ value\n\ otherwise,\ will\ create\ abother\ subtree\ and\ use\ (x+y)/2\ equalation\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArtPanel()
+comment0.text=\n\ The\ default\ constructor\ will\ initial\ dafual\ value\ need\n\ the\ default\ height\ is\ 4,\ and\ grayscale\ mode\ is\ off\n
+comment1.params=
+comment1.target=void\ setNewExpr()
+comment1.text=\n\ This\ method\ will\ be\ called\ when\ user\ want\ to\ create\ new\ random\ art\n
+comment2.params=name
+comment2.target=java.lang.String\ getExpressionAsString(java.lang.String)
+comment2.text=\n\ Get\ the\ string\ of\ expression\ of\ random\ art\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\n\ Calculate\ and\ paint\ the\ conponent\n
+comment4.params=grayscale
+comment4.target=void\ setGrayscale(boolean)
+comment4.text=\n\ method\ for\ set\ the\ grayscale\ mode,\ if\ grayscale\ mode\ is\ true\ that's\ mean\ the\ tree\ color\ will\n\ use\ the\ same\ expression\ and\ the\ art\ will\ be\ grayscale\n
+comment5.params=name\ x\ y
+comment5.target=int\ getColorCode(java.lang.String,\ double,\ double)
+comment5.text=\n\ Case\ the\ double\ value\ of\ expression\ [-1,1]\ to\ the\ int\ value\ of\ color\ between\ [0,255]\ \n
+comment6.params=num
+comment6.target=int\ getColorCode2(java.lang.Double)
+comment6.text=\n\ THe\ code\ that\ pass\ the\ expression\ will\ pass\ into\ this\ method\ and\ will\ generate\ to\ value\ between\ (0-255)\n
+comment7.params=height
+comment7.target=void\ setHeight(int)
+comment7.text=\n\ Set\ height\ of\ the\ expression\n
+numComments=8
